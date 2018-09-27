@@ -1,1 +1,1 @@
-include ':demo', ':RefreshRecyclerView'
+include ':demo', ':RefreshRecyclerView', ':scrollconflict', ':concurrent'
